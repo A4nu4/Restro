@@ -45,7 +45,7 @@ const TestimonialSection = () => {
               <img
                 src={item.avatar}
                 alt={item.name}
-                className="size-11 rounded-full object-cover shrink-0 mt-3"
+                className="size-11 rounded-full object-cover shrink-0 mt-4"
               />
               <div>
                 <p className="font-medium leading-tight mb-0.5">{item.name}</p>
