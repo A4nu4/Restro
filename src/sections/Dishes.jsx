@@ -9,7 +9,7 @@ const Dishes = () => {
   return (
     <section id="dishes" className="px-auto mt-44">
       <div className="text-center mb-16">
-        <Animated>
+        <Animated delay={0.2}>
           <p className="text-orange-500 font-medium uppercase mb-3.5">
             Chef's Signature Selection
           </p>
